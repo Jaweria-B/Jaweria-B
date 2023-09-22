@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jaweria-B
+- 👋 Hi, I’m Jaweria
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning programming
+- 🌱 I’m a Software Engineer 
 - 💞️ I’m looking to collaborate on different projects
 - 📫 Email: jaweriabatool.jbjb@gmail.com
 
