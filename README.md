@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m a Software Engineer 
 - 💞️ I’m looking to collaborate on different projects
-- 📫 Email: jaweriabatool.jbjb@gmail.com
+- 📫 Email: bjaweria509@gmail.com
 
 <!---
 Jaweria-B/Jaweria-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
