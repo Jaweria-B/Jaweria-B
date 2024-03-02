@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Software%20Engineer-💻-blue" alt="Software Engineer">
   <img src="https://img.shields.io/badge/Passionate%20Coder-👩‍💻-purple" alt="Passionate Coder">
   <img src="https://img.shields.io/badge/Life%20Long%20Learner-🌱-green" alt="Life Long Learner">
+  <img src="https://img.shields.io/badge/Bibliophile-📚-orange" alt="Bibliophile">
 </p>
 
 <p align="center">Welcome to my GitHub profile! I'm a passionate software engineer with expertise in various technologies and a strong interest in coding and building innovative solutions.</p>
@@ -64,7 +65,7 @@
 
 <h2 align="center">💌 Let's Connect</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/jaweria-b"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" alt="LinkedIn" width="24" height="24" style="vertical-align: middle;"> LinkedIn</a> |
+  <a href="https://linkedin.com/in/jaweria-batool"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" alt="LinkedIn" width="24" height="24" style="vertical-align: middle;"> LinkedIn</a> |
   <a href="https://medium.com/@jaweriabatool.jbjb"><img src="https://simpleicons.org/icons/medium.svg" alt="Medium" width="24" height="24" style="vertical-align: middle;"> Medium</a> |
   <!-- 🌐 <a href="https://jaweria-b.github.io">Portfolio</a> | -->
   📧 <a href="mailto:bjaweria509@gmail.com">Email</a>
