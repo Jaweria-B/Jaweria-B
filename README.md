@@ -23,6 +23,20 @@
   <img src="https://img.shields.io/badge/Software%20Design%20and%20Development-💡-blueviolet" alt="Software Design and Development">
 </p>
 
+<h2 align="center">🎨 Languages 🌈</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-🐍-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Java-☕-red" alt="Java">
+  <img src="https://img.shields.io/badge/C++-🌟-green" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-💫-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/MATLAB-📊-purple" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Git-👩‍💻-orange" alt="Git">
+  <img src="https://img.shields.io/badge/JSX-🚀-cyan" alt="JSX">
+  <img src="https://img.shields.io/badge/HTML5-📝-lightgrey" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-🌈-pink" alt="CSS3">
+  <img src="https://img.shields.io/badge/SCSS-💃-blueviolet" alt="SCSS">
+</p>
+
 <h2 align="center">🧰 Frameworks/Tools 🛠️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-🅱️-blue" alt="Bootstrap">
