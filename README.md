@@ -98,21 +98,28 @@
 
 <h2 align="center">💼 Hackathon Projects</h2>
 
-1. **Quranic**
-   - 📜 Description: An AI-powered application providing users with a comprehensive understanding of the Holy Qur'an. Leveraging advanced technologies such as Aya-101 and Cohere Embed via Cohere API for translation and transcription.
-   - 🚀 [GitHub Link](https://github.com/jaweria-b/Quranic)
+<h2 align="center">💻 Projects</h2>
 
-2. **Food Complaint Resolution System**
-   - 🍔 Description: AI tool for food delivery businesses to handle customer complaints related to received food automatically, reducing human effort and processing time.
-   - 🚀 [GitHub Link](https://github.com/jaweria-b/Food-Complaint-Resolution-System)
+<!-- Existing Projects -->
 
-3. **HIN Number - Team BREAKING Project**
-   - 📊 Description: Developed the HIN Number as a benchmark for assessing LLM interpretive accuracy and adaptability. Explored the impact of guardrails on LLM interaction quality and user engagement.
-   - 🚀 [GitHub Link](https://github.com/jaweria-b/HIN-Number-Team-BREAKING-Project)
+<h3 align="center">Hackathon Projects</h3>
 
-4. **Kitchen Creators**
-   - 🍳 Description: Introduced Vectara Database, a proprietary system for culinary exploration, powered by the HHEM Model for originality measurement. Utilized Lambda Model's regression analysis for tailored recipe recommendations based on user-provided ingredients.
-   - 🚀 [GitHub Link](https://github.com/jaweria-b/Kitchen-Creators)
+<p align="center">
+  1. 🌆 [Virtual Urban Explorer (VUE)](https://github.com/Jaweria-B/Leap_Hackathon_Project): An innovative, AI-powered platform designed to transform the way people explore and interact with cities around the world. Utilizes cutting-edge advancements in GPT, AI, and AR/VR technologies for an immersive and interactive virtual exploration experience.
+  
+  2. 🌐 [Quranic](https://github.com/jaweria-b/Quranic): An innovative AI-powered application designed to provide users with a comprehensive and precise understanding of the Holy Qur'an. Leveraging advanced technologies such as Aya-101 and Cohere Embed via Cohere API for translation and transcription.
+
+  3. 📊 [HIN Number - Team BREAKING Project](https://github.com/Jaweria-B/HIN-BreakingFree): The HIN Number, defined as the product of Groundedness and Hallucination scores, serves as a new benchmark for assessing LLM interpretive accuracy and adaptability. Explored the impact of guardrails on LLM interaction quality and user engagement.
+
+  4. 🍳 [Kitchen Creators](https://github.com/Jaweria-B/KitchenCreators-App): Introduced Vectara Database, a proprietary system for culinary exploration, powered by the HHEM Model for originality measurement. Utilized Lambda Model's regression analysis for tailored recipe recommendations based on user-provided ingredients.
+
+  5. 🍔 [Food Complaint Resolution System](https://github.com/jaweria-b/Food-Complaint-Resolution-System): An AI tool developed for food delivery businesses to handle customer complaints related to received food automatically, reducing human effort and processing time.
+
+  6. 📘 [Everdiver](https://github.com/jaweria-b/Everdiver): Leveraging large language models like Falcon, Everdiver enhances Evernote's search functions and builds knowledge from old notes, preserving privacy.
+
+  7. ☁️ [WeatherWane](https://github.com/Jaweria-B/Weather_Vane): Use AI to build powerful presentations, saving vital time for professionals, students, and collaborators. Create impactful presentations with videos and accompanying music efficiently.
+  
+</p>
 
 ---
 <p align="center">🎉 Congratulations! You've reached the end of my profile. Don't worry, you survived. 🥳 If you're still curious, drop me an <a href="mailto:bjaweria509@gmail.com">email</a>. Let's keep the fun going! 🚀 <br> Remember, debugging is like solving a mystery novel where you're the detective, the culprit, and the victim. 😄 <br> 📚🔍</p>
