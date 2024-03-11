@@ -41,13 +41,15 @@
   <img src="https://img.shields.io/badge/Material%20UI-🎨-pink" alt="Material UI">
 </p>
 
-<h2 align="center">IDEs</h2>
+<h2 align="center">🛠️ Integrated Development Environments (IDEs) 🛠️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-🖥️-blue" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/PyCharm-🐍-orange" alt="PyCharm">
   <img src="https://img.shields.io/badge/Anaconda-🐍-green" alt="Anaconda">
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-📔-blueviolet" alt="Jupyter Notebook">
   <img src="https://img.shields.io/badge/Android%20Studio-📱-green" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Dev%20C++-💻-blue" alt="Dev C++">
+  <img src="https://img.shields.io/badge/Turbo%20C++-💻-blue" alt="Turbo C++">
 </p>
 
 <h2 align="center">Databases</h2>
@@ -56,6 +58,7 @@
   <img src="https://img.shields.io/badge/SQL-💾-orange" alt="SQL">
   <img src="https://img.shields.io/badge/Firebase-🔥-yellow" alt="Firebase">
 </p>
+
 <h2 align="center">🌟 Achievements</h2>
 <ul align="center">
   <li>Top 6 Finalist, NextGen GPT Hackathon - Ranked among the top 6 out of 47 teams.</li>
