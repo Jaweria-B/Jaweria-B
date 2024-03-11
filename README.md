@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-🅱️-blue" alt="Bootstrap">
   <img src="https://img.shields.io/badge/ReactJs-⚛️-blue" alt="ReactJs">
   <img src="https://img.shields.io/badge/Material%20UI-🎨-pink" alt="Material UI">
+  <img src="https://img.shields.io/badge/Styled%20Components-👩‍💻-green" alt="Styled Components">
   <img src="https://img.shields.io/badge/Express.js-🚀-green" alt="Express.js">
   <img src="https://img.shields.io/badge/NodeJs-🟩-green" alt="NodeJs">
   <img src="https://img.shields.io/badge/EJS-📝-lightgrey" alt="EJS">
