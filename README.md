@@ -75,6 +75,17 @@
   <img src="https://img.shields.io/badge/Firebase-🔥-yellow" alt="Firebase">
 </p>
 
+<h2 align="center">🧠 AI Models 🤖</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/GPT--4-🤯-blue" alt="GPT-4">
+  <img src="https://img.shields.io/badge/GPT--4--Turbo-💥-orange" alt="GPT-4 Turbo">
+  <img src="https://img.shields.io/badge/DALL·E--3-🎨-purple" alt="DALL·E-3">
+  <img src="https://img.shields.io/badge/Text--to--Speech-🗣️-yellow" alt="Text-to-Speech">
+  <img src="https://img.shields.io/badge/GPT--4--Vision-👁️-purple" alt="GPT-4-Vision">
+  <img src="https://img.shields.io/badge/ClarifAI%20Models-🖼️-pink" alt="ClarifAI">
+  <img src="https://img.shields.io/badge/OpenAI%20Models-🌐-blueviolet" alt="OpenAI">
+</p>
+
 <h2 align="center">🌟 Achievements</h2>
 <ul align="center">
   <li>Top 6 Finalist, NextGen GPT Hackathon - Ranked among the top 6 out of 47 teams.</li>
