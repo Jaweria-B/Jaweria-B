@@ -23,8 +23,14 @@
   <img src="https://img.shields.io/badge/Software%20Design%20and%20Development-💡-blueviolet" alt="Software Design and Development">
 </p>
 
-<h2 align="center">Frameworks/Tools</h2>
+<h2 align="center">🧰 Frameworks/Tools 🛠️</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-🅱️-blue" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/ReactJs-⚛️-blue" alt="ReactJs">
+  <img src="https://img.shields.io/badge/Material%20UI-🎨-pink" alt="Material UI">
+  <img src="https://img.shields.io/badge/Express.js-🚀-green" alt="Express.js">
+  <img src="https://img.shields.io/badge/NodeJs-🟩-green" alt="NodeJs">
+  <img src="https://img.shields.io/badge/EJS-📝-lightgrey" alt="EJS">
   <img src="https://img.shields.io/badge/Django-🐍-blue" alt="Django">
   <img src="https://img.shields.io/badge/TensorFlow-⚙️-orange" alt="TensorFlow">
   <img src="https://img.shields.io/badge/OpenCV-👁️-blueviolet" alt="OpenCV">
@@ -34,11 +40,6 @@
   <img src="https://img.shields.io/badge/NumPy-🔢-blue" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-📊-purple" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Scikit--Learn-💻-yellowgreen" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/Firebase-🔥-orange" alt="Firebase">
-  <img src="https://img.shields.io/badge/Express.js-🚀-green" alt="Express.js">
-  <img src="https://img.shields.io/badge/EJS-📝-lightgrey" alt="EJS">
-  <img src="https://img.shields.io/badge/Bootstrap-🅱️-blue" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Material%20UI-🎨-pink" alt="Material UI">
 </p>
 
 <h2 align="center">🛠️ Integrated Development Environments (IDEs) 🛠️</h2>
