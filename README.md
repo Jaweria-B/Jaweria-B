@@ -129,12 +129,6 @@
 
 <h2 align="center">💼 Hackathon Projects</h2>
 
-<h2 align="center">💻 Projects</h2>
-
-<!-- Existing Projects -->
-
-<h3 align="center">Hackathon Projects</h3>
-
 <p align="center">
   1. 🌆 [Virtual Urban Explorer (VUE)](https://github.com/Jaweria-B/Leap_Hackathon_Project): An innovative, AI-powered platform designed to transform the way people explore and interact with cities around the world. Utilizes cutting-edge advancements in GPT, AI, and AR/VR technologies for an immersive and interactive virtual exploration experience.
   
