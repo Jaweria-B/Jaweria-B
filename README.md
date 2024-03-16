@@ -39,23 +39,23 @@
 
 <h2 align="center">🧰 Frameworks/Tools 🛠️</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-🅱️-blue" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/ReactJs-⚛️-blue" alt="ReactJs">
-  <img src="https://img.shields.io/badge/Material%20UI-🎨-pink" alt="Material UI">
-  <img src="https://img.shields.io/badge/Styled%20Components-👩‍💻-green" alt="Styled Components">
-  <img src="https://img.shields.io/badge/Express.js-🚀-green" alt="Express.js">
-  <img src="https://img.shields.io/badge/NodeJs-🟩-green" alt="NodeJs">
-  <img src="https://img.shields.io/badge/EJS-📝-lightgrey" alt="EJS">
-  <img src="https://img.shields.io/badge/Django-🐍-blue" alt="Django">
-  <img src="https://img.shields.io/badge/TensorFlow-⚙️-orange" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/OpenCV-👁️-blueviolet" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Keras-🧠-yellow" alt="Keras">
-  <img src="https://img.shields.io/badge/StreamLit-🌈-lightgrey" alt="StreamLit">
-  <img src="https://img.shields.io/badge/Pandas-🐼-green" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-🔢-blue" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-📊-purple" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Scikit--Learn-💻-yellowgreen" alt="Scikit-Learn">
+  <img src="https://simpleicons.org/icons/bootstrap.svg" alt="Bootstrap" width="32" height="32">
+  <img src="https://simpleicons.org/icons/react.svg" alt="ReactJs" width="32" height="32">
+  <img src="https://simpleicons.org/icons/material-ui.svg" alt="Material UI" width="32" height="32">
+  <img src="https://simpleicons.org/icons/styled-components.svg" alt="Styled Components" width="32" height="32">
+  <img src="https://simpleicons.org/icons/express.svg" alt="Express.js" width="32" height="32">
+  <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="NodeJs" width="32" height="32">
+  <img src="https://simpleicons.org/icons/django.svg" alt="Django" width="32" height="32">
+  <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="32" height="32">
+  <img src="https://simpleicons.org/icons/opencv.svg" alt="OpenCV" width="32" height="32">
+  <img src="https://simpleicons.org/icons/keras.svg" alt="Keras" width="32" height="32">
+  <img src="https://simpleicons.org/icons/streamlit.svg" alt="StreamLit" width="32" height="32">
+  <img src="https://simpleicons.org/icons/pandas.svg" alt="Pandas" width="32" height="32">
+  <img src="https://simpleicons.org/icons/numpy.svg" alt="NumPy" width="32" height="32">
+  <img src="https://simpleicons.org/icons/matplotlib.svg" alt="Matplotlib" width="32" height="32">
+  <img src="https://simpleicons.org/icons/scikit-learn.svg" alt="Scikit-Learn" width="32" height="32">
 </p>
+
 
 <h2 align="center">🛠️ Integrated Development Environments (IDEs) 🛠️</h2>
 <p align="center">
