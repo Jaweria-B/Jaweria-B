@@ -101,38 +101,37 @@
   .connect-container {
     display: flex;
     justify-content: center;
+    align-items: center; /* Center vertically */
+    flex-wrap: wrap; /* Allow items to wrap to the next line if necessary */
   }
   .connect-links {
-    display: flex;
-    align-items: center;
-    margin-right: 10px; /* Adjust spacing between links and badge */
+    margin: 10px; /* Add margin for spacing */
   }
 </style>
 
 <h2 align="center">💌 Let's Connect</h2>
 <div class="connect-container">
+  <!-- All connection links -->
   <div class="connect-links">
-    <!-- All connection links -->
-    <div>
-      <a href="https://linkedin.com/in/jaweria-batool">
-        <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" alt="LinkedIn" width="24" height="24" style="vertical-align: middle;"> LinkedIn
-      </a>
-    </div>
-    <div>
-      <a href="https://medium.com/@jaweriabatool.jbjb">
-        <img src="https://simpleicons.org/icons/medium.svg" alt="Medium" width="24" height="24" style="vertical-align: middle;"> Medium
-      </a>
-    </div>
-    <div>
-      📧 <a href="mailto:bjaweria509@gmail.com">Email</a>
-    </div>
+    <a href="https://linkedin.com/in/jaweria-batool">
+      <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" alt="LinkedIn" width="24" height="24" style="vertical-align: middle;"> LinkedIn
+    </a>
   </div>
-  <div>
-    <!-- LinkedIn badge -->
+  <div class="connect-links">
+    <a href="https://medium.com/@jaweriabatool.jbjb">
+      <img src="https://simpleicons.org/icons/medium.svg" alt="Medium" width="24" height="24" style="vertical-align: middle;"> Medium
+    </a>
+  </div>
+  <div class="connect-links">
+    📧 <a href="mailto:bjaweria509@gmail.com">Email</a>
+  </div>
+  <!-- LinkedIn badge -->
+  <div class="connect-links">
     <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jaweria-batool" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/jaweria-batool?trk=profile-badge">Jaweria Batool</a></div>
   </div>
 </div>
+
 
 
 <h2 align="center">💻 Projects</h2>
