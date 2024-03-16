@@ -96,9 +96,22 @@
 </ul>
 
 
+<!-- Add CSS to center both columns -->
+<style>
+  .connect-container {
+    display: flex;
+    justify-content: center;
+  }
+  .connect-links {
+    display: flex;
+    align-items: center;
+    margin-right: 10px; /* Adjust spacing between links and badge */
+  }
+</style>
+
 <h2 align="center">💌 Let's Connect</h2>
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; align-items: center;">
+<div class="connect-container">
+  <div class="connect-links">
     <!-- All connection links -->
     <div>
       <a href="https://linkedin.com/in/jaweria-batool">
