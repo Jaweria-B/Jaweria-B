@@ -44,16 +44,19 @@
   <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="32" height="32">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="Styled Components" width="32" height="32">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs" width="32" height="32">
-  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="32" height="32">
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="32" height="32">
   <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="32" height="32">
   <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="32" height="32">
   <img src="https://img.icons8.com/color/48/000000/streamlit.png" alt="StreamLit" width="32" height="32">
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="32" height="32">
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="32" height="32">
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="32" height="32">
   <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/ejs.png" alt="EJS" width="32" height="32">
 </p>
+
 
 
 <h2 align="center">🛠️ Integrated Development Environments (IDEs) 🛠️</h2>
