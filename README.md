@@ -39,21 +39,20 @@
 
 <h2 align="center">🧰 Frameworks/Tools 🛠️</h2>
 <p align="center">
-  <img src="https://simpleicons.org/icons/bootstrap.svg" alt="Bootstrap" width="32" height="32">
-  <img src="https://simpleicons.org/icons/react.svg" alt="ReactJs" width="32" height="32">
-  <img src="https://simpleicons.org/icons/material-ui.svg" alt="Material UI" width="32" height="32">
-  <img src="https://simpleicons.org/icons/styled-components.svg" alt="Styled Components" width="32" height="32">
-  <img src="https://simpleicons.org/icons/express.svg" alt="Express.js" width="32" height="32">
-  <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="NodeJs" width="32" height="32">
-  <img src="https://simpleicons.org/icons/django.svg" alt="Django" width="32" height="32">
-  <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="32" height="32">
-  <img src="https://simpleicons.org/icons/opencv.svg" alt="OpenCV" width="32" height="32">
-  <img src="https://simpleicons.org/icons/keras.svg" alt="Keras" width="32" height="32">
-  <img src="https://simpleicons.org/icons/streamlit.svg" alt="StreamLit" width="32" height="32">
-  <img src="https://simpleicons.org/icons/pandas.svg" alt="Pandas" width="32" height="32">
-  <img src="https://simpleicons.org/icons/numpy.svg" alt="NumPy" width="32" height="32">
-  <img src="https://simpleicons.org/icons/matplotlib.svg" alt="Matplotlib" width="32" height="32">
-  <img src="https://simpleicons.org/icons/scikit-learn.svg" alt="Scikit-Learn" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJs" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="Styled Components" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/streamlit.png" alt="StreamLit" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="32" height="32">
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn" width="32" height="32">
 </p>
 
 
