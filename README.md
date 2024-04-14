@@ -115,7 +115,7 @@
 <h3 align="center">Machine Learning</h3>
 <p align="center">
   🧬 <a href="https://github.com/jaweria-b/DNA-Nucleotide-Count-App">DNA Nucleotide Count App</a> &nbsp;&nbsp; 🌸 <a href="https://github.com/jaweria-b/Iris-Flower-Classification">Iris Flower Classification</a> <br>
-  🐧 <a href="https://github.com/jaweria-b/Palmer-Penguins-Prediction-App">Palmer Penguins Prediction App</a> &nbsp;&nbsp; 💹 <a href="https://github.com/jaweria-b/Stock-Price-App">Stock Price App</a>
+  🐧 <a href="https://github.com/jaweria-b/Palmer-Penguins-Prediction-App">Palmer Penguins Prediction App</a> &nbsp;&nbsp; 💹 <a href="https://github.com/jaweria-b/Stock-Price-App">Stock Price App</a> <br>
   🏀 <a href="https://github.com/Jaweria-B/eda-basketball">NBA Player Stats Explorer</a> &nbsp;&nbsp; 🏈 <a href="https://github.com/jaweria-b/NFL-Football-Player-Stats">NFL Football Player Stats</a>
 </p>
 
