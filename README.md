@@ -116,6 +116,7 @@
 <p align="center">
   🧬 <a href="https://github.com/jaweria-b/DNA-Nucleotide-Count-App">DNA Nucleotide Count App</a> &nbsp;&nbsp; 🌸 <a href="https://github.com/jaweria-b/Iris-Flower-Classification">Iris Flower Classification</a> <br>
   🐧 <a href="https://github.com/jaweria-b/Palmer-Penguins-Prediction-App">Palmer Penguins Prediction App</a> &nbsp;&nbsp; 💹 <a href="https://github.com/jaweria-b/Stock-Price-App">Stock Price App</a>
+  🏀 <a href="https://github.com/Jaweria-B/eda-basketball">NBA Player Stats Explorer</a> &nbsp;&nbsp; 🏈 <a href="https://github.com/jaweria-b/NFL-Football-Player-Stats">NFL Football Player Stats</a>
 </p>
 
 <h3 align="center">Deep Learning</h3>
@@ -131,7 +132,7 @@
 <h2 align="center">💼 Hackathon Projects</h2>
 
 <p align="center">
-  1. 🌆 [Virtual Urban Explorer (VUE)](https://github.com/Jaweria-B/Leap_Hackathon_Project): An innovative, AI-powered platform designed to transform the way people explore and interact with cities around the world. Utilizes cutting-edge advancements in GPT, AI, and AR/VR technologies for an immersive and interactive virtual exploration experience.
+  1. 🌆 [Virtual Urban Explorer](https://github.com/Jaweria-B/Leap_Hackathon_Project): An innovative, AI-powered platform designed to transform the way people explore and interact with cities around the world. Utilizes cutting-edge advancements in GPT, AI, and AR/VR technologies for an immersive and interactive virtual exploration experience.
   
   2. 🌐 [Quranic](https://github.com/jaweria-b/Quranic): An innovative AI-powered application designed to provide users with a comprehensive and precise understanding of the Holy Qur'an. Leveraging advanced technologies such as Aya-101 and Cohere Embed via Cohere API for translation and transcription.
 
