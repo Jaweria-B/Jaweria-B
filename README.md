@@ -132,19 +132,23 @@
 <h2 align="center">💼 Hackathon Projects</h2>
 
 <p align="center">
-  1. 🌆 [Virtual Urban Explorer](https://github.com/Jaweria-B/Leap_Hackathon_Project): An innovative, AI-powered platform designed to transform the way people explore and interact with cities around the world. Utilizes cutting-edge advancements in GPT, AI, and AR/VR technologies for an immersive and interactive virtual exploration experience.
+  1. 🌆 [Seerah Bot](https://github.com/Jaweria-B/Seerah-App): Simplifying the understanding of the Quran and facilitating reflection on its teachings for everyone. Leveraging MongoDB, Llama Index Generative AI, OpenAI, and RAG feature, it creates a seamless Seerah for non-Arabic speakers. Market Size: 1.3 Billion Muslims who do not speak Arabic. 
+
+  2. 🌟 [Games Gemini Ultra Simulator](https://github.com/Jaweria-B/GamesHackathon): Powered by "The Adaptive Simulation Sandbox" with Gemini's cognitive abilities, this project showcases seamless teamwork and problem-solving in dynamic meeting management. Gemini's achievements in Conceptualization, Agent Personification, Interaction Dynamics, and Synthetic Data Utilization underline its adaptability and value in AI training and beyond. 🚀
   
-  2. 🌐 [Quranic](https://github.com/jaweria-b/Quranic): An innovative AI-powered application designed to provide users with a comprehensive and precise understanding of the Holy Qur'an. Leveraging advanced technologies such as Aya-101 and Cohere Embed via Cohere API for translation and transcription.
+  3. 🌐 [Virtual Urban Explorer](https://github.com/Jaweria-B/Leap_Hackathon_Project): An innovative, AI-powered platform designed to transform the way people explore and interact with cities around the world. Utilizes cutting-edge advancements in GPT, AI, and AR/VR technologies for an immersive and interactive virtual exploration experience.
+  
+  4. 🌐 [Quranic](https://github.com/jaweria-b/Quranic): An innovative AI-powered application designed to provide users with a comprehensive and precise understanding of the Holy Qur'an. Leveraging advanced technologies such as Aya-101 and Cohere Embed via Cohere API for translation and transcription.
 
-  3. 📊 [HIN Number - Team BREAKING Project](https://github.com/Jaweria-B/HIN-BreakingFree): The HIN Number, defined as the product of Groundedness and Hallucination scores, serves as a new benchmark for assessing LLM interpretive accuracy and adaptability. Explored the impact of guardrails on LLM interaction quality and user engagement.
+  5. 📊 [HIN Number - Team BREAKING Project](https://github.com/Jaweria-B/HIN-BreakingFree): The HIN Number, defined as the product of Groundedness and Hallucination scores, serves as a new benchmark for assessing LLM interpretive accuracy and adaptability. Explored the impact of guardrails on LLM interaction quality and user engagement.
 
-  4. 🍳 [Kitchen Creators](https://github.com/Jaweria-B/KitchenCreators-App): Introduced Vectara Database, a proprietary system for culinary exploration, powered by the HHEM Model for originality measurement. Utilized Lambda Model's regression analysis for tailored recipe recommendations based on user-provided ingredients.
+  6. 🍳 [Kitchen Creators](https://github.com/Jaweria-B/KitchenCreators-App): Introduced Vectara Database, a proprietary system for culinary exploration, powered by the HHEM Model for originality measurement. Utilized Lambda Model's regression analysis for tailored recipe recommendations based on user-provided ingredients.
 
-  5. 🍔 [Food Complaint Resolution System](https://github.com/jaweria-b/Food-Complaint-Resolution-System): An AI tool developed for food delivery businesses to handle customer complaints related to received food automatically, reducing human effort and processing time.
+  7. 🍔 [Food Complaint Resolution System](https://github.com/jaweria-b/Food-Complaint-Resolution-System): An AI tool developed for food delivery businesses to handle customer complaints related to received food automatically, reducing human effort and processing time.
 
-  6. 📘 [Everdiver](https://github.com/jaweria-b/Everdiver): Leveraging large language models like Falcon, Everdiver enhances Evernote's search functions and builds knowledge from old notes, preserving privacy.
+  8. 📘 [Everdiver](https://github.com/jaweria-b/Everdiver): Leveraging large language models like Falcon, Everdiver enhances Evernote's search functions and builds knowledge from old notes, preserving privacy.
 
-  7. ☁️ [WeatherWane](https://github.com/Jaweria-B/Weather_Vane): Use AI to build powerful presentations, saving vital time for professionals, students, and collaborators. Create impactful presentations with videos and accompanying music efficiently.
+  9. ☁️ [WeatherWane](https://github.com/Jaweria-B/Weather_Vane): Use AI to build powerful presentations, saving vital time for professionals, students, and collaborators. Create impactful presentations with videos and accompanying music efficiently.
   
 </p>
 
