@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Life%20Long%20Learner-🌱-green" alt="Life Long Learner">
   <img src="https://img.shields.io/badge/Bibliophile-📚-orange" alt="Bibliophile">
 </p>
-
+<!---
 <p align="center">Welcome to my GitHub profile! I'm a passionate software engineer with expertise in various technologies and a strong interest in coding and building innovative solutions.</p>
 
 <h2 align="center">🚀 Skills</h2>
@@ -156,7 +156,7 @@
 <p align="center">🎉 Congratulations! You've reached the end of my profile. Don't worry, you survived. 🥳 If you're still curious, drop me an <a href="mailto:bjaweria509@gmail.com">email</a>. Let's keep the fun going! 🚀 <br> Remember, debugging is like solving a mystery novel where you're the detective, the culprit, and the victim. 😄 <br> 📚🔍</p>
 
 
-<!---
+
 Jaweria-B/Jaweria-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
